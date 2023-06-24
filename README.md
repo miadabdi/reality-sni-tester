@@ -4,6 +4,8 @@ This script creates a reality inbound in x-ui and test provided SNIs against it
 
 ## Usage
 
+This script was developed using [3x-ui](https://github.com/MHSanaei/3x-ui) APIs and probably won't work with other versions of xui.
+
 Clone the repo:
 
 ```bash
