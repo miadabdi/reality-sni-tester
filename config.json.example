@@ -1,0 +1,14 @@
+{
+  "address": "Server Address",
+  "panel_port": 8520,
+  "reality_port": 2083,
+  "username": "username",
+  "password": "password",
+  "type": "both/upload/download",
+  "upload_bytes": 50000,
+  "download_bytes": 400000,
+  "snis": [
+    "www.speedtest.net",
+    "localhost.skypeassets.com"
+  ]
+}
